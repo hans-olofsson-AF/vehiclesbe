@@ -1,0 +1,1 @@
+insert into Vehicle (id, name, type, mass) values (0, 'Tesla Model S 75D', 'Sedan', 2)

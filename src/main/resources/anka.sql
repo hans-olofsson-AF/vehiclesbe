@@ -1,0 +1,6 @@
+insert into Vehicle (id, name, type, mass) values (0, 'Tesla Model S 75D', 'Sedan', 2)
+insert into Vehicle (id, name, type, mass) values (1, 'Tesla Model S 100D', 'Sedan', 2)
+insert into Vehicle (id, name, type, mass) values (2, 'Tesla Model S P100D', 'Sedan', 2)
+insert into Vehicle (id, name, type, mass) values (3, 'Tesla Model X 75D', 'Sedan', 2)
+insert into Vehicle (id, name, type, mass) values (4, 'Tesla Model X 100D', 'Sedan', 2)
+insert into Vehicle (id, name, type, mass) values (5, 'Tesla Model X P100D', 'Sedan', 2)
